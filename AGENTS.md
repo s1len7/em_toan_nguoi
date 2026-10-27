@@ -24,3 +24,9 @@ Maintain `em_toan_nguoi`, a simple, beginner-friendly AI self-study guide for To
 - Git
 - GitHub
 - Python
+
+<!-- 
+## TODO
+User Prompt: @./AGENTS.md에서 아래 내용에 대해 README.md에 작성하고 AGENTS.md에선 지워.
+  - 추가할 내용
+ -->
