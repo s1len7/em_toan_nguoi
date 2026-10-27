@@ -1,8 +1,8 @@
 # AI Self-Study Guide
 
-**Learner:** Toan
-**Background:** Engineering bachelor's degree
-**Goal:** Learn to use AI effectively, then build basic technical skills.
+<!-- **Learner:** Toan
+**Background:** Engineering bachelor's degree -->
+- **Goal:** Learn to use AI effectively, then build basic technical skills.
 
 ## 1. Free AI Chat Services
 
